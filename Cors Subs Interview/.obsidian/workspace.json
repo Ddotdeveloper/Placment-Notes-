@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f6782db2b2cda441",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d31ccbbe2d4ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc1bea2fde7682f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sql Queries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf301bda5d4a4e0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "554d2bff7317a991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf399005d2466fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a555cd6238b3509d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27141e9ee5439ee1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ff1b7642a7bfb971",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e465eeb2f2326d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a37bc5f64906bfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sql Queries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6de9d49d5b8c4a34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sql Queries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e84af4453b4d9ac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3fdb40b029e996d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sql Queries.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "efc1bea2fde7682f",
+  "lastOpenFiles": [
+    "C++ Mcq Imp Points.md",
+    "Advatages of Dbms.md",
+    "Conversion Constructer.md",
+    "Sql Queries.md",
+    "Sql Codes.md",
+    "Sql Query Questions.md",
+    "SqL Theory vale.md",
+    "Virtual inheritance.md",
+    "Untitled.md",
+    "D.b.m.s Interviewbit.md",
+    "Untitled.canvas",
+    "Sockets.md",
+    "React Js Interview Bit.md",
+    "ScreenShots/Pasted image 20240612113154.png",
+    "ScreenShots",
+    "Pointer in c++ Imp.md",
+    "Welcome.md"
+  ]
+}

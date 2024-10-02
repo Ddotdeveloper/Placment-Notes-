@@ -1,0 +1,6 @@
+- **Data Sharing:** Data from a single database can be simultaneously shared by multiple users. Such sharing also enables end-users to react to changes quickly in the database environment.
+- **Integrity constraints:** The existence of such constraints allows storing of data in an organized and refined manner.
+- **Controlling redundancy in a database:** Eliminates redundancy in a database by providing a mechanism that integrates all the data in a single database.
+- **Data Independence:** This allows changing the data structure without altering the composition of any of the executing application programs.
+- **Provides backup and recovery facility:** It can be configured to automatically create the backup of the data and restore the data in the database whenever required.
+- **Data Security:** DBMS provides the necessary tools to make the storage and transfer of data more reliable and secure. Authentication (the process of giving restricted access to a user) and encryption (encrypting sensitive data such as OTP, credit card information, etc.) are some popular tools used to secure data in a DBMS.
