@@ -81,4 +81,38 @@ select * from worker where first_name IN ('Vipul', 'Satish');
 ```
 
 ### String Matching in SQL
-#### 
+#### % 
+The wildcard character % is used with the LIKE operator to represent zero, one, or multiple characters.
+```sql
+select * from worker where department LIKE 'Admin%';
+select * from worker where first_name LIKE '%a%';
+select * from worker where first_name LIKE '_____h';
+```
+### WHERE 
+- WHERE clause in SQL is used to ==filter records based on specified conditions==. 
+- • Conditions in the WHERE clause ==can involve comparisons== (using operators like =, >, <, >=, <=, <>), logical operators (AND, OR, NOT), and pattern matching (LIKE).
+• The ==IN operator== can also be used within a WHERE clause to specify multiple values.
+
+### Between 
+- check between the tow values for numeric 
+- Can be used in various cases 
+   - salary Price range 
+   - date values and time values 
+   - string values 
+```sql 
+SELECT * 
+FROM employees
+WHERE salary BETWEEN 50000 AND 80000;
+SELECT * 
+FROM employees
+WHERE first_name BETWEEN 'A' AND 'M';
+SELECT * 
+FROM orders
+WHERE order_date BETWEEN '2023-01-01' AND '2023-06-30';
+```
+
+### Extract The Year and Month 
+- Here we extract year and month from the joining date 
+```sql
+Select * from worker where year(joining_date) = 2014 and month(joining_date) = 02;
+```
