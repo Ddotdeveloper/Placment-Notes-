@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f11814478b07de34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Backend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebRtc Youtube Video Intro.md",
+                "file": "Full Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebRtc Youtube Video Intro.md",
+                "file": "Full Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebRtc Youtube Video Intro.md"
+                "file": "Full Backend.md"
               }
             }
           }
@@ -146,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6850131c41f84073",
+  "active": "f11814478b07de34",
   "lastOpenFiles": [
-    "Sockets.md",
     "React Js Interview Bit.md",
+    "Untitled.canvas",
+    "Pasted image 20241004194232.png",
+    "Full Backend.md",
     "WebRtc Youtube Video Intro.md",
+    "Sockets.md",
     "Recursive Stored Code.md",
     "Advatages of Dbms.md",
     "Parking Lot Design Problem.md",
@@ -165,7 +181,6 @@
     "Sql Queries.md",
     "Sql Codes.md",
     "SqL Theory vale.md",
-    "Untitled.canvas",
     "D.b.m.s Interviewbit.md",
     "Sql Query Questions.md",
     "Conversion Constructer.md",
@@ -176,8 +191,6 @@
     "ScreenShots/Pasted image 20240927015856.png",
     "ScreenShots/Pasted image 20240927015810.png",
     "ScreenShots/Pasted image 20240927014311.png",
-    "ScreenShots/Pasted image 20240927010831.png",
-    "Untitled.md",
     "Java Backend/Java Basics.md",
     "Untitled",
     "Java Backend",

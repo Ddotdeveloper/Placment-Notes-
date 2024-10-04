@@ -4,7 +4,15 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "U"
+      "key": "."
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
     }
   ]
 }
